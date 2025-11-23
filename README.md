@@ -68,6 +68,7 @@ Je recherche activement une **alternance de 14 mois** pour compléter ma formati
 🔗 **Portfolio** : [Lien vers ton portfolio si tu en as un]
 
 ---
+
 Merci d'avoir visité mon histoire ! 😊
 N'hésitez pas à me conctater pour toute question ou collaboration.
 
