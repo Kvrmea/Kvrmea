@@ -1,5 +1,9 @@
 # Munoz Hugo - Développeur Web | Passionnée par l'IA 👋
 
+Hello everyone ! Je m'appelle **Hugo Munoz** et je suis actuellement en étude en tant que développeur FullStack. Je suis en formation à **EPITECH**, une des plus grande école numérique qui met un accent sur les bonnes pratiques de code, les habitudes à prendre et le travail en équipe.
+
+![EPITECH](https://commons.wikimedia.org/wiki/File:Epitech.svg)
+
 
 <!--
 **Kvrmea/Kvrmea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
