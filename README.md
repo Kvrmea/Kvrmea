@@ -63,9 +63,9 @@ Je recherche activement une **alternance de 14 mois** pour compléter ma formati
 
 > 💡 *Je ne cherche pas juste une alternance, je cherche une équipe où grandir, contribuer et faire la différence.*
 
-📧 **Contactez-moi** : [ton-email@example.com]  
-💼 **LinkedIn** : [Ton profil LinkedIn]  
-🔗 **Portfolio** : [Lien vers ton portfolio si tu en as un]
+📧 **Contactez-moi** : [hugo.munoz0903@gmail.com]  
+💼 **LinkedIn** : [https://www.linkedin.com/in/hugo-munoz03/]  
+🔗 **Portfolio** : [en cours...]
 
 ---
 
