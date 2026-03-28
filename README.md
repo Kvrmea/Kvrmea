@@ -22,16 +22,27 @@ Je suis à la recherche d'une **alternance** pour mettre en pratique mes compét
 
 Voici un aperçu des technologies que j'ai maîtrisées lors de la formation et de mes projets personnels :
 
+## 🎨 Frontend
 - **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+- **React** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 - **Three.js** ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 - **HTML/CSS** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+## ⚙️ Backend
 - **PHP** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-- **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- **Laravel** ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 - **Node.js** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-- **React** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-- **SQL** ![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=sqlite&logoColor=white)
 - **Express** ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+- **Java** ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+- **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- **SQL** ![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=sqlite&logoColor=white)
+
+## 🛠️ Outils & Environnement
+- **Docker** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- **Linux** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 - **Bash** ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+- **VS Code** ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- **IntelliJ IDEA** ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 ## Pourquoi choisir EPITECH ?
 
