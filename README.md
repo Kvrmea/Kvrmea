@@ -84,7 +84,7 @@ Je recherche activement une **alternance de 14 mois** pour accompagner mon entr�
 
 📫 **Me contacter**
 - 🌐 **Portfolio** : [hugomnz.dev](https://hugomnz.dev)
-- 📧 **Email** : [hugo.munoz0903@gmail.com](mailto:hugo.munoz0903@gmail.com)
+- 📧 **Email** : [hugo.munoz0903@gmail.com](mailto:contact@hugomnz.dev)
 - 💼 **LinkedIn** : [linkedin.com/in/hugo-munoz03](https://www.linkedin.com/in/hugo-munoz03/)
 
 ---
