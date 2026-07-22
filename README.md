@@ -1,6 +1,6 @@
 # Munoz Hugo - Développeur Web | Passionné par l'IA 👋
 
-Hello everyone ! Je m'appelle **Hugo Munoz** et je suis développeur FullStack. Je vise à intégrer prochainement **OpenClassrooms** pour suivre leur cursus FullStack, une formation axée sur l'apprentissage par la pratique, la réalisation de projets métier concrets et l'autonomie.
+Hello everyone ! Je m'appelle Hugo Munoz et je suis développeur FullStack. Je suis actuellement en formation chez OpenClassrooms pour préparer un Titre RNCP Niv. 6 (Bac+3/4), un cursus axé sur l'apprentissage par la pratique, la réalisation de projets métier concrets et l'autonomie
 
 <p align="center">
   <img src="./assets/openclassroom_bg.png" alt="OpenClassrooms" width="300"/>
