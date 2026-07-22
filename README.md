@@ -1,6 +1,6 @@
 # Munoz Hugo - Développeur Web | Passionné par l'IA 👋
 
-Hello everyone ! Je m'appelle Hugo Munoz et je suis développeur FullStack. Je suis actuellement en formation chez OpenClassrooms pour préparer un Titre RNCP Niv. 6 (Bac+3/4), un cursus axé sur l'apprentissage par la pratique, la réalisation de projets métier concrets et l'autonomie
+Hello everyone ! Je m'appelle **Hugo Munoz** et je suis développeur FullStack. Je suis actuellement en formation chez **OpenClassrooms** pour préparer un Titre RNCP Niv. 6 (Bac+3/4), un cursus axé sur l'apprentissage par la pratique, la réalisation de projets métier concrets et l'autonomie.
 
 <p align="center">
   <img src="./assets/openclassroom_bg.png" alt="OpenClassrooms" width="300"/>
@@ -8,7 +8,7 @@ Hello everyone ! Je m'appelle Hugo Munoz et je suis développeur FullStack. Je s
 
 👉 **Objectif Formation**
 
-Je projette de suivre la formation **Développeur FullStack** (cursus en 24 mois, dont 14 mois en alternance). Bien que polyvalent sur l'ensemble de la stack, j'ai une **forte préférence pour le Back-End** (architecture API, bases de données, gestion de la logique métier et sécurité).
+Je suis la formation **Développeur FullStack** (cursus en 24 mois, dont 14 mois en alternance). Bien que polyvalent sur l'ensemble de la stack, j'ai une **forte préférence pour le Back-End** (architecture API, bases de données, gestion de la logique métier et sécurité).
 
 Ce cursus me permet d'asseoir mes compétences autour de :
 - **Conception & Architecture Back-End** : Node.js, Express.js, PHP, Laravel, gestion et optimisation des bases de données (SQL & NoSQL)
@@ -56,9 +56,9 @@ Voici un aperçu des technologies maîtrisées lors de mes projets personnels et
 
 ---
 
-## 🎓 Pourquoi viser OpenClassrooms ?
+## 🎓 Pourquoi le choix OpenClassrooms ?
 
-Mon choix de rejoindre **OpenClassrooms** repose sur leur modèle axé sur la réalité du terrain :
+Mon choix de suivre la formation chez **OpenClassrooms** repose sur leur modèle axé sur la réalité du terrain :
 
 - **Pédagogie par projets** : Valider des compétences sur des cas réels et complexes du monde professionnel.
 - **Autonomie & Rigueur** : Capacité à mener des recherches poussées, architecturer des solutions et résoudre des bugs de manière indépendante.
@@ -68,7 +68,7 @@ Mon choix de rejoindre **OpenClassrooms** repose sur leur modèle axé sur la r�
 
 ## 🚀 À la recherche d'une alternance (14 mois)
 
-Je recherche activement une **alternance de 14 mois** pour accompagner mon entrée en formation et apporter une réelle valeur ajoutée à une équipe technique.
+Je recherche activement une **alternance de 14 mois** pour accompagner mon parcours de formation et apporter une réelle valeur ajoutée à une équipe technique.
 
 ### Ce que j'apporte :
 
@@ -84,7 +84,7 @@ Je recherche activement une **alternance de 14 mois** pour accompagner mon entr�
 
 📫 **Me contacter**
 - 🌐 **Portfolio** : [hugomnz.dev](https://hugomnz.dev)
-- 📧 **Email** : [hugo.munoz0903@gmail.com](mailto:contact@hugomnz.dev)
+- 📧 **Email** : [contact@hugomnz.dev](mailto:contact@hugomnz.dev)
 - 💼 **LinkedIn** : [linkedin.com/in/hugo-munoz03](https://www.linkedin.com/in/hugo-munoz03/)
 
 ---
